@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/akin-bilgin-react-portfolio/static/css/main.c810758e.css",
-    "main.js": "/akin-bilgin-react-portfolio/static/js/main.749cdeb5.js",
+    "main.css": "/akin-bilgin-react-portfolio/static/css/main.59c8ba3f.css",
+    "main.js": "/akin-bilgin-react-portfolio/static/js/main.923931b9.js",
     "static/media/plustechdemo.png": "/akin-bilgin-react-portfolio/static/media/plustechdemo.3ab01f1ca37a9a7d6752.png",
     "static/media/weatherapp.png": "/akin-bilgin-react-portfolio/static/media/weatherapp.5039ce3b458c525d78a1.png",
     "static/media/dizayncivata.png": "/akin-bilgin-react-portfolio/static/media/dizayncivata.b7795552139ef2562404.png",
@@ -19,11 +19,11 @@
     "static/media/firebase.png": "/akin-bilgin-react-portfolio/static/media/firebase.209703cedf1b1a96bc52.png",
     "static/media/javascript.png": "/akin-bilgin-react-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/akin-bilgin-react-portfolio/index.html",
-    "main.c810758e.css.map": "/akin-bilgin-react-portfolio/static/css/main.c810758e.css.map",
-    "main.749cdeb5.js.map": "/akin-bilgin-react-portfolio/static/js/main.749cdeb5.js.map"
+    "main.59c8ba3f.css.map": "/akin-bilgin-react-portfolio/static/css/main.59c8ba3f.css.map",
+    "main.923931b9.js.map": "/akin-bilgin-react-portfolio/static/js/main.923931b9.js.map"
   },
   "entrypoints": [
-    "static/css/main.c810758e.css",
-    "static/js/main.749cdeb5.js"
+    "static/css/main.59c8ba3f.css",
+    "static/js/main.923931b9.js"
   ]
 }
